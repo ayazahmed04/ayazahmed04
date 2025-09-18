@@ -30,12 +30,11 @@ As a data scientist, I believe in taking a holistic approach to problem-solving.
 #
 
 ### 📊 Stats
+Those who ignore Statistics are condemned to reinvent it.
 
-#
 
 <details>
  <summary><h3>👨‍💻 Ayaz's Data Journey</h3></summary>
-fter completing a few internships, I landed a job as a data analyst where I worked with large datasets and helped to drive business decisions through data insights. As I continued to gain experience, I transitioned into a data scientist role where I was responsible for building and deploying predictive models. In web3, I have explored the exciting world of decentralized technologies, building models to predict market trends and optimize transactions.
 
 As I gained more experience and moved up the ladder, I faced new challenges and opportunities. I had to learn how to communicate effectively with stakeholders, build models that were both accurate and scalable, and stay up-to-date with the latest developments in the field. But I was motivated by the potential impact of my work and the satisfaction of seeing my models make a difference in the real world.
 
