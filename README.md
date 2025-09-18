@@ -29,7 +29,7 @@ As a data scientist, I believe in taking a holistic approach to problem-solving.
 
 
 
-### 📊 Stats
+<h3>📊 Stats <h3/>
 Those who ignore Statistics are condemned to reinvent it.
 
 
